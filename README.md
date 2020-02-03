@@ -16,10 +16,12 @@
    A youtube tutorial from maxmillian: https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=1
 
 Instruction
-Base Url: http://localhost:8080/graphql
-Install mongodb
-Install nodemon globally(npm i -g nodemon)
-Rename example.config.env to config.env
+
+1. Base Url: http://localhost:8080/graphql
+2. Install mongodb
+3. Install nodemon globally(npm i -g nodemon)
+4. Rename example.config.env to config.env
+
 To Run
 
 1.  clone the Repo
